@@ -10,6 +10,8 @@
 
 * [github action test](https://github.com/IbrahemSarayrah/basic-api-server/runs/3353331221)
 
+* [local test](uml-img/test-lab3-locally.PNG)
+
 * HEROKU Prod : [https://ibrahem--basic-api-server.herokuapp.com/](https://ibrahem--basic-api-server.herokuapp.com/)
 
 * pull request : [https://github.com/IbrahemSarayrah/basic-api-server/pull/1](https://github.com/IbrahemSarayrah/basic-api-server/pull/1)
